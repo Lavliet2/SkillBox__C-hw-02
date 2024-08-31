@@ -1,0 +1,28 @@
+D:\Dev\SkillBox\Less 2\Lesson_06\Homework_Theme_01\bin\Debug\Homework_Theme_01.exe.config
+D:\Dev\SkillBox\Less 2\Lesson_06\Homework_Theme_01\bin\Debug\Homework_Theme_01.exe
+D:\Dev\SkillBox\Less 2\Lesson_06\Homework_Theme_01\bin\Debug\Homework_Theme_01.pdb
+D:\Dev\SkillBox\Less 2\Lesson_06\Homework_Theme_01\obj\Debug\Homework_Theme_01.csproj.CoreCompileInputs.cache
+D:\Dev\SkillBox\Less 2\Lesson_06\Homework_Theme_01\obj\Debug\Homework_Theme_01.exe
+D:\Dev\SkillBox\Less 2\Lesson_06\Homework_Theme_01\obj\Debug\Homework_Theme_01.pdb
+D:\Dev\SkillBox\Less 2\Lesson_06\Homework_Theme_01\obj\Debug\Homework_Theme_01.csprojAssemblyReference.cache
+D:\Dev\SkillBox\Less 2\HomeWork\Lesson_06\Homework_Theme_01\bin\Debug\Homework_Theme_01.exe.config
+D:\Dev\SkillBox\Less 2\HomeWork\Lesson_06\Homework_Theme_01\bin\Debug\Homework_Theme_01.exe
+D:\Dev\SkillBox\Less 2\HomeWork\Lesson_06\Homework_Theme_01\bin\Debug\Homework_Theme_01.pdb
+D:\Dev\SkillBox\Less 2\HomeWork\Lesson_06\Homework_Theme_01\obj\Debug\Homework_Theme_01.csprojAssemblyReference.cache
+D:\Dev\SkillBox\Less 2\HomeWork\Lesson_06\Homework_Theme_01\obj\Debug\Homework_Theme_01.csproj.CoreCompileInputs.cache
+D:\Dev\SkillBox\Less 2\HomeWork\Lesson_06\Homework_Theme_01\obj\Debug\Homework_Theme_01.exe
+D:\Dev\SkillBox\Less 2\HomeWork\Lesson_06\Homework_Theme_01\obj\Debug\Homework_Theme_01.pdb
+D:\Dev\SkillBox\Less 2\HomeWork\Version 1\Lesson_06\Homework_Theme_01\bin\Debug\Homework_Theme_01.exe.config
+D:\Dev\SkillBox\Less 2\HomeWork\Version 1\Lesson_06\Homework_Theme_01\bin\Debug\Homework_Theme_01.exe
+D:\Dev\SkillBox\Less 2\HomeWork\Version 1\Lesson_06\Homework_Theme_01\bin\Debug\Homework_Theme_01.pdb
+D:\Dev\SkillBox\Less 2\HomeWork\Version 1\Lesson_06\Homework_Theme_01\obj\Debug\Homework_Theme_01.csprojAssemblyReference.cache
+D:\Dev\SkillBox\Less 2\HomeWork\Version 1\Lesson_06\Homework_Theme_01\obj\Debug\Homework_Theme_01.csproj.CoreCompileInputs.cache
+D:\Dev\SkillBox\Less 2\HomeWork\Version 1\Lesson_06\Homework_Theme_01\obj\Debug\Homework_Theme_01.exe
+D:\Dev\SkillBox\Less 2\HomeWork\Version 1\Lesson_06\Homework_Theme_01\obj\Debug\Homework_Theme_01.pdb
+S:\Dev\C#\SkillBox\HomeWork\HomeWork 2\Lesson_06\Homework_Theme_01\bin\Debug\Homework_Theme_01.exe.config
+S:\Dev\C#\SkillBox\HomeWork\HomeWork 2\Lesson_06\Homework_Theme_01\bin\Debug\Homework_Theme_01.exe
+S:\Dev\C#\SkillBox\HomeWork\HomeWork 2\Lesson_06\Homework_Theme_01\bin\Debug\Homework_Theme_01.pdb
+S:\Dev\C#\SkillBox\HomeWork\HomeWork 2\Lesson_06\Homework_Theme_01\obj\Debug\Homework_Theme_01.csproj.AssemblyReference.cache
+S:\Dev\C#\SkillBox\HomeWork\HomeWork 2\Lesson_06\Homework_Theme_01\obj\Debug\Homework_Theme_01.csproj.CoreCompileInputs.cache
+S:\Dev\C#\SkillBox\HomeWork\HomeWork 2\Lesson_06\Homework_Theme_01\obj\Debug\Homework_Theme_01.exe
+S:\Dev\C#\SkillBox\HomeWork\HomeWork 2\Lesson_06\Homework_Theme_01\obj\Debug\Homework_Theme_01.pdb
